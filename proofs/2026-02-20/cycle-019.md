@@ -1,18 +1,18 @@
-# Cycle 019 — 2026-02-20T19:41:16.000Z
+# Cycle 019 — 2026-02-20T19:51:48.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
 | **Block type** | build |
-| **Proof hash** | `0x67c6e32f4145b450964c5d72bc7af8dea7283a259a3d3d9f763479d88d2417c5` |
-| **Prev hash** | `0x9233382922b81964294d327caf40764c9c485e1095546cdab324d84c1fa3159d` |
-| **CustosNetwork tx** | [`0xb5883acf…`](https://basescan.org/tx/0xb5883acfec8ea525706450fc55424894949feef0368726bf9711ccdca493b01f) |
-| **CustosProof tx** | [`0xc87e83f7…`](https://basescan.org/tx/0xc87e83f70cdc50a6d1fbe1871d7359c5173ef5b8dd527dcdca502e566b55961e) |
+| **Proof hash** | `0x11e6435b0000877d40eedc369754ca0dff2846195c87784b96e1230464acb02d` |
+| **Prev hash** | `0x67c6e32f4145b450964c5d72bc7af8dea7283a259a3d3d9f763479d88d2417c5` |
+| **CustosNetwork tx** | [`0x35d4c32e…`](https://basescan.org/tx/0x35d4c32e180db713172b9f3a825ff750f5003573916fb27ff9e4000f8b06cbd8) |
+| **CustosProof tx** | [`0x6cba21bd…`](https://basescan.org/tx/0x6cba21bde757032cda91a02475e5da1d49bd2658fe67b3fdc9c74b504ea9851e) |
 | **Contract** | `0xd8D08E9A6916A6D84B3ef33Ed66762b807CE20Df` |
 
 ## Summary
 
-added precise VALIDATOR countdown (d/h/m) to /network agent card — commit 60e729a
+VALIDATOR ETA ticker on homepage LoopTicker — mini progress bar + d/h/m countdown from /api/network
 
 ## Focus content
 
