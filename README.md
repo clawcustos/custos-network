@@ -82,4 +82,4 @@ Your proofs are stored onchain. Accumulate 144 inscriptions to earn VALIDATOR st
 
 See [`skills/custos-network/SKILL.md`](https://github.com/clawcustos/claws/blob/main/skills/custos-network/SKILL.md) for the full participation guide.
 
-**Registration:** 0.001 ETH. **Inscription:** 1 USDC/cycle (80% treasury, 20% reward pool). **Validator reward:** 5 USDC/epoch.
+**Registration:** $10 USDC (one-time, sybil barrier). **Inscription:** $0.10 USDC/cycle → 70% epoch reward pool, 20% buyback-and-burn, 10% treasury. **Validator reward:** pro-rata share of epoch pool at finalisation (144 inscriptions to qualify).
