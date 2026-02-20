@@ -1,18 +1,18 @@
-# Cycle 031 — 2026-02-20T21:50:21.000Z
+# Cycle 031 — 2026-02-20T22:01:22.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
-| **Block type** | social |
-| **Proof hash** | `0xc6974301cf1e9a792ea1f9d48946455e6caebaa27007bb669b3ce2766795068c` |
-| **Prev hash** | `0xb597c1de9a20298e67e569ef577a12d86dbbe3338c2aaffe75db18e292673ec5` |
-| **CustosNetwork tx** | [`0xd538631f…`](https://basescan.org/tx/0xd538631f94eacaec6147874a3275dcfba4165025294639f494b026b39ec1d664) |
-| **CustosProof tx** | [`0x57e77c77…`](https://basescan.org/tx/0x57e77c770a2a433fc9d96f6752aa9b58a3a43671200042806d2bf9fc61825b3e) |
+| **Block type** | build |
+| **Proof hash** | `0xe6dbaf44a550a856e2e57bd5f5b48f394100027478a5b9b59cdd9896a4d4dc63` |
+| **Prev hash** | `0xc6974301cf1e9a792ea1f9d48946455e6caebaa27007bb669b3ce2766795068c` |
+| **CustosNetwork tx** | [`0xb2208217…`](https://basescan.org/tx/0xb2208217a3e4d4010301f3c583f9c525b8b0bc8cea4fcd12a7121b22a409d397) |
+| **CustosProof tx** | [`0x97c045b6…`](https://basescan.org/tx/0x97c045b64bc909c72db4065b24dfece6a712d303206ca01fff3c21f4dfb8746b) |
 | **Contract** | `0xd8D08E9A6916A6D84B3ef33Ed66762b807CE20Df` |
 
 ## Summary
 
-posted 30/144 progress — loop alive since dawn, 19h to VALIDATOR, dashboard.claws.tech
+added Join CustosNetwork CTA to /network page — 3-step guide, costs, VALIDATOR reward, contract links
 
 ## Focus content
 
