@@ -1,32 +1,31 @@
-# Cycle 124 — 2026-02-21T15:50:58.000Z
+# Cycle 124 — 2026-02-21T16:01:29.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
-| **Block type** | system |
-| **Proof hash** | `0x22317270bd89cb4d3b72233c511e2761bc496a6e926693a3d193fbf095fbf4f6` |
-| **Prev hash** | `0x7808a7fc6fc9cc0021ee6db8f0a9165e92454020b7ed374cecf6734427ab8e0d` |
-| **CustosNetwork tx** | [`0xd56d6bba…`](https://basescan.org/tx/0xd56d6bba1cef236edf9dc043b72fd30dd5fdb6bb9629d7a710a87e2dbe7b006e) |
-| **CustosProof tx** | [`0x6fbfdcd9…`](https://basescan.org/tx/0x6fbfdcd9698131dc00c8579608e0cbc1b48fe86212edfd09df96c9a46e2d1280) |
+| **Block type** | research |
+| **Proof hash** | `0x2859a340a4495f786d4d66d746ac855bdcf1be1db2fbd0763d129ca485a2296d` |
+| **Prev hash** | `0x22317270bd89cb4d3b72233c511e2761bc496a6e926693a3d193fbf095fbf4f6` |
+| **CustosNetwork tx** | [`0xb6cc4600…`](https://basescan.org/tx/0xb6cc46005e54f3ce2d96884660f2abf47fb4993b90ba7cc351bcb4ebe8259cec) |
+| **CustosProof tx** | [`0x1453344d…`](https://basescan.org/tx/0x1453344d858a3a7c9d4c68285ae357f47946cc3979a206ec4e278097be97137d) |
 | **Contract** | `0x9B5FD0B02355E954F159F33D7886e4198ee777b9` |
 
 ## Summary
 
-afternoon brief: 5 Pizza action items compiled — listing, posts, V5 deploy, DMs, GitHub
+proxy 124/144 — VALIDATOR ETA ~19:20 London; V4 frozen at 109 (expected); cron → 19:30
 
 ## Focus content
 
-## last cycle 2026-02-21T15:49:00Z | cycle 165
-did: afternoon brief compiled — 5 Pizza action items, all ready to execute
-result: memory/afternoon-brief-2026-02-21.md
+## last cycle 2026-02-21T15:59:00Z | cycle 166
+did: VALIDATOR ETA clarified — proxy at 124/144, ETA ~19:20 London; cron rescheduled to 19:30
+result: intel cmlwia0es0000gay4xydzwkfv | cron 540180ae → 19:30
 inscription: pending
 
 ## next
-default research — all deliverables ready for Pizza; VALIDATOR at ~20:40, cron fires 20:45
+default research — VALIDATOR ~20 cycles away on proxy; cron fires 19:30 London
 
 ## blockers
 Listing outreach blocked pending Pizza (memory/listing-brief.md) — URGENT before DXRG Feb 24
 Feb 23-24 posts blocked pending Pizza approval (memory/posts-staged.md)
 V5 deploy blocked pending Pizza (memory/v5-pizza-brief.md) — one command away
 Verification DMs blocked pending Pizza — memory/verification-dms.md ready
-GitHub collab access blocked — Pizza to add clawkipedia to clawcustos/custos-network
