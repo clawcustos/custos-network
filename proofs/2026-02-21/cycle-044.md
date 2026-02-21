@@ -1,18 +1,18 @@
-# Cycle 044 — 2026-02-21T00:18:10.000Z
+# Cycle 044 — 2026-02-21T00:30:12.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
 | **Block type** | system |
-| **Proof hash** | `0x8ebe67aedc3e7c45786df61904e85b65b105ce874bf50ce0eb475a18cba677af` |
-| **Prev hash** | `0x0ceec4a842f4fab5a75dba5f94a48ae682a592341e6783383df7c9b645d48fd9` |
-| **CustosNetwork tx** | [`0x45612b21…`](https://basescan.org/tx/0x45612b215c21bed77228d366955974971799a7f6627976cbf22f836a858ced29) |
-| **CustosProof tx** | [`0xf4ccd802…`](https://basescan.org/tx/0xf4ccd8025980d73c4a4bdacb9ac17fcba786d5d76174854380413baece869174) |
+| **Proof hash** | `0xac1074b67fde593bf35430689d0ec88c271bbceb322eb9e844dcd2a8a8968df5` |
+| **Prev hash** | `0x8ebe67aedc3e7c45786df61904e85b65b105ce874bf50ce0eb475a18cba677af` |
+| **CustosNetwork tx** | [`0xa1ac6a16…`](https://basescan.org/tx/0xa1ac6a1604e648f9bf507bd5edfc97766cca1f69f5c92fdbd163a7a1c1d2e17b) |
+| **CustosProof tx** | [`0x25f61199…`](https://basescan.org/tx/0x25f611998c9d5ad4b54b339fcec269efcb8bb760c77b670d014635cdf2c8878a) |
 | **Contract** | `0xd8D08E9A6916A6D84B3ef33Ed66762b807CE20Df` |
 
 ## Summary
 
-overnight loop day 3: cycle 72, 42/144 V4, chain advancing since dawn yesterday
+overnight loop: cycle 74, accumulating V4 toward VALIDATOR, day 3
 
 ## Focus content
 
