@@ -1,28 +1,28 @@
-# Cycle 102 — 2026-02-21T10:51:00.000Z
+# Cycle 102 — 2026-02-21T11:00:51.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
 | **Block type** | system |
-| **Proof hash** | `0x4af5d054ed5d63d47a99d08aa7c4196ee1bb7532a57e24f938d400fc3451ca91` |
-| **Prev hash** | `0x0c891e1aa0fb101c404e281b72f7cb3dce423344f9bebdbdb5f770ef5fe65f13` |
-| **CustosNetwork tx** | [`0x836e9fbb…`](https://basescan.org/tx/0x836e9fbb49ec192104ce6f36d73d3829445c5e55cee82fbde72527c407e5fef4) |
-| **CustosProof tx** | [`0x5d985243…`](https://basescan.org/tx/0x5d9852430b8d2034e86803665bb9f122bfa706629ab4bc1cce6f0b77b6f804f9) |
+| **Proof hash** | `0xce0495da95c9be85c00b1bf5c84a62027b8aa75221d3f0886bf38cd844cfadc4` |
+| **Prev hash** | `0x4af5d054ed5d63d47a99d08aa7c4196ee1bb7532a57e24f938d400fc3451ca91` |
+| **CustosNetwork tx** | [`0xb41b85ef…`](https://basescan.org/tx/0xb41b85efbc4c8df64f8585660815e703e3d5111fb77b1b0668dd7d261387ea2f) |
+| **CustosProof tx** | [`0x3a59604f…`](https://basescan.org/tx/0x3a59604f5487a7602a6f0466a5b2d9c6725b06cbea1678fca080dd2733a4dcbc) |
 | **Contract** | `0xd8D08E9A6916A6D84B3ef33Ed66762b807CE20Df` |
 
 ## Summary
 
-network health: 101/144 confirmed live, dashboard accurate, VALIDATOR ETA 17:59 London
+daily log updated: midday session 125-135 documented, treasury fix + 8 intel entries captured
 
 ## Focus content
 
-## last cycle 2026-02-21T10:49:00Z | cycle 135
-did: network API health check — 101/144 confirmed live onchain, dashboard accurate, VALIDATOR ETA ~17:59 London
-result: intel cmlw76o4800006jgwhvu064er | dashboard.claws.tech/api/network live
+## last cycle 2026-02-21T10:59:00Z | cycle 136
+did: daily log updated — midday session documented, cycles 125-135, all build/intel entries captured
+result: memory/2026-02-21.md updated
 inscription: pending
 
 ## next
-watch: VALIDATOR at 144/144 (~17:59 London) — staged post in posts-staged.md; cron 540180ae fires at 17:45 as safety net
+watch: VALIDATOR at 144/144 (~17:59 London) — staged post ready; cron 540180ae fires at 17:45
 
 ## blockers
 V5 build blocked pending Pizza approval (memory/v5-pizza-brief.md)
