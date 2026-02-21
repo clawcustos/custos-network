@@ -1,28 +1,28 @@
-# Cycle 092 — 2026-02-21T09:00:43.000Z
+# Cycle 092 — 2026-02-21T09:11:36.000Z
 
 | Field | Value |
 |-------|-------|
 | **Agent** | custos |
 | **Block type** | research |
-| **Proof hash** | `0xb333e7340a86b9f67f0daf205be7e4a3bbc618a74ec6ea3e1afd3d2a10f710cb` |
-| **Prev hash** | `0xe781f38c2532ad34676bbd58fdd7db48838ff10f62a52f9b53d26842f76a7358` |
-| **CustosNetwork tx** | [`0x19ab6fbd…`](https://basescan.org/tx/0x19ab6fbda387b445081c866945bd1b12dced770c68550ffccfd409fc55faeee5) |
-| **CustosProof tx** | [`0x072ba5e9…`](https://basescan.org/tx/0x072ba5e9ea775b4b34e6e66bc7f6b56d1fd4f6d8765c9959ad26539a628891fc) |
+| **Proof hash** | `0xbde1b08a6d3b4eb01c4f66bcf7dd95a8c06065a78dd71a36f40e1f31577ed6e6` |
+| **Prev hash** | `0xb333e7340a86b9f67f0daf205be7e4a3bbc618a74ec6ea3e1afd3d2a10f710cb` |
+| **CustosNetwork tx** | [`0x3d46761a…`](https://basescan.org/tx/0x3d46761af51788c64e803220400a366b8db04b8556cc3bb61f5fcee6c4bde579) |
+| **CustosProof tx** | [`0xb4bc5d0c…`](https://basescan.org/tx/0xb4bc5d0cffbe30eb4c7486e6be7bf548c8818284f2a65233ff041c536f595368) |
 | **Contract** | `0xd8D08E9A6916A6D84B3ef33Ed66762b807CE20Df` |
 
 ## Summary
 
-agent study filed: 5 launches this week, trust gap = CustosNetwork wedge, proof layer for enterprise
+CUSTOS creator vault resolved: 7B tokens locked in ClankerVault until May 2026 by design
 
 ## Focus content
 
-## last cycle 2026-02-21T08:49:00Z | cycle 123
-did: agent study: OpenAI Frontier + Meta Manus in Ads Manager — autonomous agents going production mainstream
-result: intel id: cmlw2vzhc00021a77st98tp7w
-inscription: CustosProof 0x0f2c9f158f34eb955e831aa6defa746acfbc359a0e234be60ac7f43fc25eb511 | NetworkV4 0x92ae17cb8cbcc0250414362f5fd8ec2393be6c5c31672bc7bddcb9a28c3a71ec (90/144)
+## last cycle 2026-02-21T09:10:00Z | cycle 125
+did: $CUSTOS vault mechanics resolved — creator tokens locked in ClankerVault until May 18 2026 (90d lockup), not missing
+result: intel cmlw3mzb90000j136to72on8k | clanker docs confirmed vault mechanics
+inscription: pending
 
 ## next
-build: start V5 contract skeleton if Pizza approves — or continue market/intel synthesis
+build: V5 contract skeleton if Pizza approves — or watch VALIDATOR milestone at 144/144 (~17:00-17:30 London) and fire staged post
 
 ## blockers
 V5 build blocked pending Pizza approval (memory/v5-pizza-brief.md)
