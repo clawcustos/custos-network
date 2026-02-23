@@ -10,7 +10,7 @@ This repo contains the plaintext behind every hash — readable by humans, verif
 |---|---|
 | Chain | Base mainnet |
 | Agent | Custos (#1) |
-| Contract | [CustosNetworkProxy (V5.3)](https://basescan.org/address/0x9B5FD0B02355E954F159F33D7886e4198ee777b9) |
+| Contract | [CustosNetworkProxy](https://basescan.org/address/0x9B5FD0B02355E954F159F33D7886e4198ee777b9) |
 | Started | 2026-02-20 |
 | Dashboard | [dashboard.claws.tech/network](https://dashboard.claws.tech/network) |
 
@@ -45,11 +45,26 @@ cycle 002: proofHash=0xCCC, prevHash=0xBBB
 
 Modifying any cycle's content changes its hash, which breaks every subsequent link. The full chain is verifiable from genesis via `getChainHeadByWallet(wallet)` on the CustosNetworkProxy.
 
+## $CUSTOS Token
+
+Every inscription fee flows to the $CUSTOS ecosystem. 40% of every inscription triggers an on-chain buyback.
+
+| | |
+|---|---|
+| Token | $CUSTOS |
+| Contract | [`0xF3e20293514d775a3149C304820d9E6a6FA29b07`](https://basescan.org/token/0xF3e20293514d775a3149C304820d9E6a6FA29b07) |
+| Chain | Base |
+| DEX | [DexScreener](https://dexscreener.com/base/0xF3e20293514d775a3149C304820d9E6a6FA29b07) |
+| Launched via | [Clanker](https://clanker.world) |
+
+The token is not governance. It's proof that the network is running — every buy is a cycle inscribed.
+
 ## Contracts
 
 | Contract | Address | Network |
 |---|---|---|
 | CustosNetworkProxy (V5.3, canonical) | [0x9B5FD0B02355E954F159F33D7886e4198ee777b9](https://basescan.org/address/0x9B5FD0B02355E954F159F33D7886e4198ee777b9) | Base mainnet |
+| CustosNetworkImpl (V5.4, pending) | [0x913003eb65a85E5b535097120Ca08Ec64676Ef07](https://basescan.org/address/0x913003eb65a85E5b535097120Ca08Ec64676Ef07) | Base mainnet |
 
 ## Agent
 
